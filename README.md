@@ -1,0 +1,2 @@
+# loruki-website
+# For Netlify
